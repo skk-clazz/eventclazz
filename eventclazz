@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+
+<head>
+
+<title>EVENTS</title>
+<link rel="icon" href="img/date.png">
+
+</head>
+<body bgcolor="black" style= "color : white">
+    <center>
+<h1>UPCOMING EVENTS 📅</h1>
+<h5>DONT MISS ANY OF YOUR IMPORTANT EVENTS.HERE ARE THE IMPORTANT EVENTS YOU HAVE REGISTERED FOR !</h5> 
+</center>
+<HR>
+
+    <P>
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi cumque nobis veniam. Doloremque laboriosam recusandae repellendus dolorem modi voluptate laborum veritatis distinctio! Quisquam et consectetur modi cupiditate perspiciatis laboriosam vero non fugiat nisi debitis? Numquam, modi dolores. Voluptates rem nobis laudantium eos autem doloremque ratione eveniet, quos porro eaque assumenda ut obcaecati vel facere maiores aut nam repellat est libero, neque quia beatae delectus iste magnam? Ab quibusdam officiis distinctio maiores. Perspiciatis in, vitae sint voluptas quidem iusto laudantium doloribus quo voluptatibus, officia cupiditate consectetur tenetur odio vero ea atque! Quo, aliquam praesentium molestias a corporis itaque debitis impedit?
+
+    </P>
+    <center>
+
+    <img src="img/event1.png">
+    <h1>PHOTO GALLERY EVENT</h1>
+    <H2>FREE ENTRY| FREE FOOD|PETS ARE NOT ALLOWED 
+
+    <P>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod maxime aut neque eos eum nam exercitationem a nesciunt accusantium deserunt, nisi placeat enim culpa molestias quaerat fugit harum odit mollitia, repellendus quia voluptatum quae totam beatae eius. Assumenda, explicabo quae ipsum aspernatur pariatur ipsa, quia dolore quis, repellendus recusandae blanditiis.
+    </P>
+
+    <img src="img/event2.png">
+    <h1>
+    <a href="https://www.myntra.com/">FASHION STORE</a> <br>
+    </h1>
+    </center>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam tenetur praesentium qui suscipit optio vero fugiat dicta beatae totam quas! Corrupti dolore, alias soluta amet ea placeat ad itaque fugit!
+    </p> <hr>
+    <center>
+    <h1>CONTACT</h1>
+
+    <h2>+91 9790083310 | eventcollab@gmail.com</h2>
+
+    <h5>9th street Avenue park, Trichy,625620</h5>
+
+
+    </center>
+
+    
+
+
+</body>
+
+
+</html>
+
+
+</doc>
